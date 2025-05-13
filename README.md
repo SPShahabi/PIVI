@@ -15,7 +15,7 @@ Step 3_USA_platinum_iridium_PIVI: Using the processed platinum and iridium trade
 
 # Reference
 
-For more details, please refer to the published article:
+For more details, please refer to our published article:
 
 Pourshahabi S, Shutters ST, Muneepeerakul R (2024) Quantifying economic vulnerabilities induced by interdependent networks. PLoS ONE 19(7): e0306893. https://doi.org/10.1371/journal.pone.0306893
 
