@@ -1,7 +1,6 @@
 #                            DoD Minerva Project
 #                           Shokoufeh Pourshahabi
 #              Step III_Potential indirect vulnerability index (PIVI)
-#              Interdependent global networks of trade and investment
 #                           USA_platinum_iridium_trade
 #                            
 
