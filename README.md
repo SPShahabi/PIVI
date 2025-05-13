@@ -1,8 +1,6 @@
 # Potential Indirect Vulnerability Index (PIVI)
 
-This repository contains Python scripts used for the calculation of the potential indirect vulnerability index (PIVI), as part of our research project.
-
-There are three scripts, which should be run sequentially, as the output of each step is used in the next.
+This repository contains Python scripts used for the calculation of the potential indirect vulnerability index (PIVI), as part of our research project. There are three scripts, which should be run sequentially, as the output of each step is used in the next.
 
 Step 1_Extract USA Trade Data: We use the data of bilateral commodity trade flows from the United Nations Comtrade database (http://comtrade.un.org) and extract the import/export values of the US with partner countries. 
 
