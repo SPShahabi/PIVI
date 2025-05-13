@@ -5,6 +5,7 @@ This repository contains Python scripts used for the calculation of the potentia
 There are three scripts, which should be run sequentially, as the output of each step is used in the next.
 
 Step 1: Extract USA Trade Data
+
 We use the data of bilateral commodity trade flows from the United Nations Comtrade database (http://comtrade.un.org) and extract the import/export values of the US with partner countries. 
 
 Step 2: FDI Couple Strength
