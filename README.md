@@ -8,9 +8,11 @@ Step 1: Extract USA Trade Data
 
 We use the data of bilateral commodity trade flows from the United Nations Comtrade database (http://comtrade.un.org) and extract the import/export values of the US with partner countries. 
 
+
 Step 2: FDI Couple Strength
 
 We compute the FDI couple strength (inflow + outflow) using bilateral FDI flow data published annually by the United Nations.
+
 
 Step 3: Calculate the Potential Indirect Vulnerability Index
 
