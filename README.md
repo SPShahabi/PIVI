@@ -1,5 +1,6 @@
 # PIVI
 Potential Indirect Vulnerability Index (PIVI)
+
 This repository contains Python scripts used for the calculation of the Potential Indirect Vulnerability Index (PIVI), as part of our research project.
 
 There are three scripts, which should be run sequentially, as the output of each step is used in the next:
