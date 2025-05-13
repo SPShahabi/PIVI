@@ -5,7 +5,7 @@ This repository contains Python scripts used for the calculation of the potentia
 Step 1_Extract_USA_Trade_Data: We use the data of bilateral commodity trade flows from the United Nations Comtrade database (http://comtrade.un.org). We extract the import/export values of the US with partner countries using this script. 
 
 
-Step 2_FDI_Couple_Strength: We compute the FDI couple strength as the sum of inflow and outflow of FDI between the investing country and the intermediary country using bilateral FDI flow data published annually by the United Nations.
+Step 2_FDI_Couple_Strength: We compute the FDI couple strength as the sum of inflow and outflow of FDI between the investing and intermediary countries using bilateral FDI flow data published annually by the United Nations.
 
 
 Step 3_USA_platinum_iridium_PIVI: Using the processed platinum and iridium trade and FDI data, we calculate the PIVI values arising through interdependent global networks of trade and investment.
