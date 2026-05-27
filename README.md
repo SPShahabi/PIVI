@@ -11,11 +11,13 @@ Step 2_FDI_Couple_Strength: We compute the FDI couple strength as the sum of inf
 Step 3_USA_platinum_iridium_PIVI: Using the processed platinum and iridium trade and FDI data, we calculate the PIVI values arising through interdependent global networks of trade and investment.
 
 
-# Reference
+# References
 
-For more details, please refer to our published article:
+For more details, please refer to our published articles:
 
 Pourshahabi S, Shutters ST, Muneepeerakul R (2024) Quantifying economic vulnerabilities induced by interdependent networks. PLoS ONE 19(7): e0306893. https://doi.org/10.1371/journal.pone.0306893
+
+Pourshahabi S, Shutters ST, Muneepeerakul R, Altiparmak SO (2025) Potential vulnerability of US green hydrogen in a world of interdependent networks. Iscience 28(9): https://www.cell.com/iscience/fulltext/S2589-0042(25)01545-7
 
 # Contact
 
